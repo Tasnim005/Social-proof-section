@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Repository](https://your-solution-url.com)
-- Live Site URL: [Live](https://your-live-site-url.com)
+- Solution URL: [Repository](https://github.com/Tasnim005/Social-proof-section)
+- Live Site URL: [Live](https://tasnim005.github.io/Social-proof-section/)
 
 ## My process
 
